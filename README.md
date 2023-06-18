@@ -4,7 +4,7 @@
 go get github.com/zakirkun/infra-go@latest
 ```
 ---
-now support json and yaml configuration
+now support json and yaml configuration\
 Set your configuration in config.toml
 ```toml
 [server]
